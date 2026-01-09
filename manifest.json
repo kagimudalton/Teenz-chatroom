@@ -1,0 +1,21 @@
+{
+  "name": "Teenz Chatroom",
+  "short_name": "TeenzChat",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6a0dad",
+  "description": "A safe and interactive chatroom for teens with video, audio, stickers, and private messaging.",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/kagimudalton/Teenz-chatroom-videos/main/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/kagimudalton/Teenz-chatroom-videos/main/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
